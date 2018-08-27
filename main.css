@@ -1,0 +1,187 @@
+
+/*************************************
+GENERAL
+**************************************/
+a {
+ text-decoration: none;
+ }
+
+img {
+max-width: 100%;
+
+}
+
+
+
+ body {
+   font-family: 'Open Sans', sans-serif;
+ }
+
+
+ #wrapper {
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0 5%;
+
+ }
+
+
+
+ a {
+   color: #6ab47b;
+
+ }
+
+ h3 {
+     margin: 0 0 1em 0;
+ }
+
+
+/*************************************
+HEADING
+**************************************/
+
+header {
+  float: left;
+  margin: 0 0 20px 0;
+  padding: 2px 0 0 0;
+  width: 100%;
+
+}
+
+
+
+#logo {
+   text-align: center;
+   margin: 0;
+
+ }
+
+ h1  {
+ font-family: 'Changa One', sans-serif;
+ margin: 10px 0;
+ /*font-size: 1.75em;
+ font-weight: normal;
+ line-height: 0.5;
+ */
+ text-align: center;
+ color: white;
+
+ }
+
+ h2  {
+
+
+ font-size: 1.00em;
+ font-weight: normal;
+ margin: -5px 0 0;
+ }
+
+
+h3  {
+
+
+    font-size: 1.1em;
+    font-weight: 700;
+    margin: 15px 0 0;
+}
+
+
+
+
+
+
+
+/*************************************
+NAVIGATION
+**************************************/
+ nav {
+	text-align: center;
+	padding: 10px 0;
+	margin: 20px 0 0;
+  }
+
+  nav ul  {
+    list-style: none;
+	margin: 0 10px;
+	padding: 0;
+}
+
+nav li {
+  display: inline-block;
+
+}
+
+
+
+/*************************************
+FOOTER
+**************************************/
+ footer {
+ font-size: 0.75em;
+ text-align: center;
+ clear: both;
+ padding-top: 50px;
+ color: #ccc;
+ }
+
+/*************************************
+PAGE:
+**************************************/
+.mydiv {background: lightblue; width:290px; height: 250px;}
+
+.myimage {
+    float:left;
+    width:150px;
+    height:175px;
+    margin:20px;
+    border-radius: 20px;
+}
+
+
+
+
+ /*************************************
+PAGE: ABOUT
+**************************************/
+.profile-photo {
+    display: block;
+    max-width: 400px;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+}
+
+/*************************************
+COLORS
+**************************************/
+
+
+   header {
+   background: #6ab47b;
+   border-color: #599a68;
+ }
+
+ /* logo text*/
+
+h2  {
+    color: #32673f;
+}
+
+/* nav background on mobile devices*/
+nav {
+   background: #599a6b;
+}
+
+nav a, nav a:visited {
+	color: #fff;
+}
+
+/* selected nav link color*/
+nav a.selected, nav a:hover {
+  color: #32673f;
+}
+/* site body*/
+body {
+    background-color: #fff;
+    color: #000;
+}

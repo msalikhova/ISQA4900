@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
 
-You can use the [editor on GitHub](https://github.com/msalikhova/ISQA4900/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+        <title>Malika Salikhova</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+        <link href="main.css" rel="stylesheet" type="text/css" media="screen,projection" >
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
+<br>
 
-### Markdown
+<h1 style ="background-color:DodgerBlue;">Malika Salikhova </h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<br>
+<br>
 
-# Header 1
-## Header 2
-### Header 3
+<div id="wrapper">
+    <section>
+        <img class="myimage" src="picture2.jpg"/>
+        <br>
+        <p>
 
-- Bulleted
-- List
+        I am a results-oriented Security and Fraud Risk Manager with more then 8 years of banking experience, having proven abilities in leading a team, strategic planning, managing projects, new technology implementation, improving efficiency of operations and team building. Able to identify areas of strength and weakness and implement bank policies, standards, changes in operations and systems that mitigate Card Fraud and Application Fraud Risks and optimize productivity. Demonstrated ability to work with Team to perform and maximize productivity and make sure all controls in place. Along with daily job, I was being trusted and given opportunities to handle various projects and was actively involved in organizing various events, workshops, trainings for team etc.
+        <p>
+        In my previous role in JSC HSBC Bank Kazakhstan , my key responsibilities were handling with Card Fraud management, Application Fraud Management, Coordination and support of Business Continuity plan for the Bank, Development of Disaster Recovery plan, Business Information Security Risk and Business Risk Control assessments within the Bank. 
+        <p>
+        I have been approached by senior management to manage Card Fraud, Application Fraud and Business Continuity divisions.
+        In my key role I was mostly involved in preparing and maintaining various MIS reports for Regional & Group Management and local regulators. 
+        <p>
+        I have coached and monitored Security and Fraud risk team out of 8 people, ensuring that all activities are carried out with maximum efficiency, security and control in accordance with established procedures and agreed service standards 
+        </p>
+        <br>
+        <br>
+        <hr>
 
-1. Numbered
-2. List
+        <p>
+            
+        </p>
+    </section>
+    
+    
+        <a href="contactspage.html">Contacts</a>
+        <a href ="personalinformation.html">Personal Information</a>
+    
+</div>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msalikhova/ISQA4900/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
